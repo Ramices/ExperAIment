@@ -1,0 +1,8 @@
+.vs/*
+Binaries/*
+Content/StarterContent/*
+DerivatedDataCache/*
+Intermediate/*
+Saved/*
+*.opendb
+*.VC
